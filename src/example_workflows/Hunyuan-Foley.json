@@ -148,7 +148,7 @@
       "properties": {
         "aux_id": "vantagewithai/ComfyUI-HunyuanFoley",
         "ver": "16ea2c44f27f357e09df9ad33e54237be75d1915",
-        "Node name for S&R": "HunyuanVisualEncode",
+        "Node name for S&R": "HunyuanVisualEncode"
       },
       "widgets_values": [
         16,
