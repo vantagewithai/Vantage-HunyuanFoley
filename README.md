@@ -1,8 +1,8 @@
-# ComfyUI HunyuanFoley 🎵
+# Vantage HunyuanFoley 🎵
 
 Modular ComfyUI nodes for HunyuanVideo-Foley that separate model loading, feature encoding (SigLIP2, Synchformer, CLAP), sampling, and VAE decoding. Includes a Foley Sampler with precision control (auto/bf16/fp16/fp32) and optional FP8 quantization (E4M3FN/E5M2) via NVIDIA TransformerEngine when available.
 
-![image](https://github.com/vantagewithai/ComfyUI-HunyuanFoley/blob/main/src/example_workflows/Hunyuan-Foley.png)
+![image](https://github.com/vantagewithai/Vantage-HunyuanFoley/blob/main/src/example_workflows/Hunyuan-Foley.png)
 
 ---
 
@@ -107,7 +107,7 @@ ComfyUI/
             ├── merges.txt
             └── vocab.json
 ```
-[![Watch the video](https://github.com/vantagewithai/ComfyUI-HunyuanFoley/blob/main/src/example_workflows/video.png)](https://youtu.be/9HsC445ChhI)
+[![Watch the video](https://github.com/vantagewithai/Vantage-HunyuanFoley/blob/main/src/example_workflows/video.png)](https://youtu.be/9HsC445ChhI)
 
 ## 🚀 Usage & Nodes
 
@@ -277,6 +277,7 @@ Wire these nodes in the ComfyUI graph; nodes appear under VantageWithAI/HunyuanF
 -   **Descript:** For the [descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) (DAC VAE).
 
 -   **v-iashin:** For the [Synchformer](https://github.com/v-iashin/Synchformer) model.
+
 
 
 
