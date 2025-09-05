@@ -146,7 +146,7 @@
         }
       ],
       "properties": {
-        "aux_id": "vantagewithai/ComfyUI-HunyuanFoley",
+        "aux_id": "vantagewithai/Vantage-HunyuanFoley",
         "ver": "16ea2c44f27f357e09df9ad33e54237be75d1915",
         "Node name for S&R": "HunyuanVisualEncode"
       },
@@ -209,7 +209,7 @@
         }
       ],
       "properties": {
-        "aux_id": "vantagewithai/ComfyUI-HunyuanFoley",
+        "aux_id": "vantagewithai/Vantage-HunyuanFoley",
         "ver": "70791c1f1c8b8dc52afd370f5f533f61299a5112",
         "Node name for S&R": "HunyuanFoleyDenoiser"
       },
@@ -455,7 +455,7 @@
         }
       ],
       "properties": {
-        "aux_id": "vantagewithai/ComfyUI-HunyuanFoley",
+        "aux_id": "vantagewithai/Vantage-HunyuanFoley",
         "ver": "70791c1f1c8b8dc52afd370f5f533f61299a5112",
         "Node name for S&R": "HunyuanFoleyVAEDecode"
       },
@@ -496,7 +496,7 @@
         }
       ],
       "properties": {
-        "aux_id": "vantagewithai/ComfyUI-HunyuanFoley",
+        "aux_id": "vantagewithai/Vantage-HunyuanFoley",
         "ver": "70791c1f1c8b8dc52afd370f5f533f61299a5112",
         "Node name for S&R": "HunyuanTextEncode"
       },
