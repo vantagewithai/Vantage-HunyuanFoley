@@ -1,5 +1,5 @@
 [project]
-name = "ComfyUI-HunyuanFoley"
+name = "Vantage-HunyuanFoley"
 description = "A ComfyUI custom node for generating high-fidelity, synchronized foley audio for any video, powered by Tencent’s HunyuanVideo-Foley model. This node integrates seamlessly into ComfyUI, delivering precise, realistic sound effects that align with on-screen actions—perfect for enhancing video projects with immersive audio."
 version = "0.1.0"
 license = {file = "LICENSE"}
@@ -14,8 +14,9 @@ Repository = "https://github.com/vantagewithai/ComfyUI-HunyuanFoley"
 
 [tool.comfy]
 PublisherId = "vantagewithai"
-DisplayName = "ComfyUI-HunyuanFoley"
+DisplayName = "Vantage-HunyuanFoley"
 Icon = ""
+
 
 
 
