@@ -42,7 +42,7 @@ The original monolithic workflow keeps multiple heavy encoders in GPU memory dur
 
 1.  Open ComfyUI Manager.
 2.  Click on `Install Custom Nodes`.
-3.  Search for `ComfyUI-HunyuanFoley` and click `Install`.
+3.  Search for `Vantage-HunyuanFoley` and click `Install`.
 4.  Restart ComfyUI.
 5.  Follow the **Download Models** instructions below.
 
@@ -278,6 +278,7 @@ Wire these nodes in the ComfyUI graph; nodes appear under VantageWithAI/HunyuanF
 -   **Descript:** For the [descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) (DAC VAE).
 
 -   **v-iashin:** For the [Synchformer](https://github.com/v-iashin/Synchformer) model.
+
 
 
 
