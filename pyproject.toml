@@ -9,13 +9,14 @@ classifiers = ["Environment :: GPU :: NVIDIA CUDA"]
 dependencies = ["diffusers", "timm", "transformers>=4.49.0", "descript-audiotools", "omegaconf"]
 
 [project.urls]
-Repository = "https://github.com/vantagewithai/ComfyUI-HunyuanFoley"
-"Bug Tracker" = "https://github.com/vantagewithai/ComfyUI-HunyuanFoley/issues"
+Repository = "https://github.com/vantagewithai/Vantage-HunyuanFoley"
+"Bug Tracker" = "https://github.com/vantagewithai/Vantage-HunyuanFoley/issues"
 
 [tool.comfy]
 PublisherId = "vantagewithai"
 DisplayName = "Vantage-HunyuanFoley"
 Icon = ""
+
 
 
 
