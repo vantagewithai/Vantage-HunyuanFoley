@@ -278,4 +278,5 @@ Wire these nodes in the ComfyUI graph; nodes appear under VantageWithAI/HunyuanF
 -   **Descript:** For the [descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) (DAC VAE).
 
 -   **v-iashin:** For the [Synchformer](https://github.com/v-iashin/Synchformer) model.
--   ** BobRandomNumber** For the inspiration behind this node. https://github.com/BobRandomNumber/ComfyUI-HunyuanVideo_Foley
+-   **BobRandomNumber:** For the inspiration behind this node. https://github.com/BobRandomNumber/ComfyUI-HunyuanVideo_Foley
+
